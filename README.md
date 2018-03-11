@@ -1,9 +1,12 @@
 # Afractal
 Drawings of several Fractal images using the SDL library
-
+<br />
 Including:
-MADELBROT
-JULIA SET
-SIERPINSKY PYRAMID
-SIERPINSKY TRIANGLE
-Hawaiian Earring
+<br />
+ <ul>
+  <li>MADELBROT</li>
+  <li>JULIA SET</li>
+  <li>SIERPINSKY PYRAMID</li>
+  <li>SIERPINSKY TRIANGLE</li>
+  <li>Hawaiian Earring</li>
+</ul> 
